@@ -1,0 +1,104 @@
+
+.section1{
+    background-image: url("https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1470498232000/photosp/d5b816cd-f56d-4d83-9861-55051250a9db/stock-photo-city-architecture-building-light-wall-broken-abandoned-dark-chair-d5b816cd-f56d-4d83-9861-55051250a9db.jpg");
+    /* background-repeat: no-repeat; */
+    background-color: #cccccc;
+    text-align: center;
+    padding:7% 15%;
+    color:#fff;
+}
+.navbar-brand{
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+p{
+    line-height: 2;
+    font-size: 1.25rem;
+}
+hr{
+    border: 3.5px solid white;
+    border-bottom: none;
+    width: 4%;
+    margin: 20px auto;
+}
+#GetStarted{
+    background-color: orangered;
+    text-align: center;
+    padding:7% 15%;
+    color:#fff;
+}
+#Services{
+    text-align: center;
+    padding: 7% 15%;
+}
+.orange{
+    border: 3.5px solid orangered;
+    border-bottom: none;
+    width: 4%;
+    margin: 20px auto;
+}
+#Services > p{
+    color: #8f8f8f;
+}
+.container{
+    margin-top:10%;  
+}
+.item{
+    padding:20px;
+}
+.service-icon{
+    color: orangered;
+    margin-bottom:4%;
+}
+.item-img{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.images-item{
+    width:100%;
+    height:200px;
+    
+}
+#download{
+    background-color: #2D3433;
+    color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+#GetinTouch{
+    text-align: center;
+    padding: 7% 15%;
+}
+#footer{
+    background: #E3E8DF;
+    color: #8f8f8f;
+    text-align: center;
+    padding: 3% 5%;
+}
+#footer > p{
+   font-size:0.85rem;
+}
+.para{
+    margin-top:2%;
+    margin-bottom: 4%;
+}
+.para1{
+    color: orangered;
+}
+.footer-icon{
+    margin-top:4%;
+}
+.btn {
+    margin-top: 3%;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 50px;
+    font-family: Arial;
+  font-size: 30px;
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    text-decoration: none;
+  }
